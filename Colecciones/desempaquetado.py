@@ -1,5 +1,5 @@
 print("Este programa es para aprender a desempaquetar una tuppla")
-
+#
 producto = ('P001','Camisa',20.00)
 
 #Desempaquetado

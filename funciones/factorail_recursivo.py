@@ -1,5 +1,5 @@
 print("Imprimir el factorial de un numero de manera recursiva")
-
+#
 def factorial(numero):
     if numero == 0 or numero == 1:
         print(f"resultado parcial {numero} es: 1")

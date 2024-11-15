@@ -15,3 +15,4 @@ print(f"Nombre: {nombre_empleado} ")
 print(f"Edad: {edad_empleado}")
 print(f"Salario: {salario_empleado}")
 print(f"Es jefe de departamento?: {es_jefe_departamteno}")
+#

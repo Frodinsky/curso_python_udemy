@@ -1,7 +1,7 @@
 class Persona:
     #Atributo de clase
     contador_personas = 0
-
+#
     def __init__(self,nombre,apellido):
         #Incrementa el valor del atributo de clase
         Persona.contador_personas +=1

@@ -1,5 +1,5 @@
 print("***Este programa da el area y perimetro de un rectangulo***")
-
+#
 base = float(input("Digite la base del rectangulo: "))
 altura = float(input("Digita la altura del rectangulo: "))
 

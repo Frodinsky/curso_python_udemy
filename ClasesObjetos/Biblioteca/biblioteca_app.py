@@ -1,5 +1,5 @@
-from Biblioteca.biblioteca_alejandria import Biblioteca
-
+from biblioteca_alejandria import Biblioteca
+#
 print("***\t\tBiblioteca de alejandriaa***")
 
 biblioteca = Biblioteca("Mi Biblioteca")

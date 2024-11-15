@@ -9,3 +9,4 @@ print(f"Numero aleatorio {aleatorio}")
 dado = randint(1,6)
 print(f"Resultado del dado: {dado}")
 
+#

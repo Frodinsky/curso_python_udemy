@@ -3,7 +3,7 @@ nombre_producto = 'Camara'
 precio_producto = 399.99
 inventario_producto = 20
 disponibilidad = True
-
+#
 print("***Sistema de Tienda Online***")
 print("Producto:", nombre_producto)
 print("Precio:",precio_producto)

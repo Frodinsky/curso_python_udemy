@@ -1,6 +1,6 @@
 import random
 
-
+#
 # Inicializar el tablero
 def crear_tablero():
     return [["~" for _ in range(5)] for _ in range(5)]

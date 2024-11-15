@@ -1,5 +1,5 @@
 print("Lista Suscriptores")
-
+#
 #Definimos un set inicial
 suscriptores = set()
 num_subs = int(input("Cuantos subs tienes?: "))

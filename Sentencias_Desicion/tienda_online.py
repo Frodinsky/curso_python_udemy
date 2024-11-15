@@ -1,5 +1,5 @@
 print("***Tienda en linea***")
-
+#
 compro = float(input("Digite el precio de su ticket: "))
 tiene_vip = input("Es miembro vip? (Si/No) ")
 

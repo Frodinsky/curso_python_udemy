@@ -1,5 +1,5 @@
 print("Este programa simula una maquina de snacks")
-
+#
 #Inventario almacen
 snack = [
     {"id":1, "nombre":"Chocolate", "Precio":32.00, },

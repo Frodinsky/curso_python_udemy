@@ -1,5 +1,5 @@
 print("Este programa te dice si una numero es par o impar")
-
+#
 def es_par(numero):
     if numero % 2 == 0:
         return True

@@ -1,5 +1,5 @@
-from sistema_empleados.empleado import Empleado
-
+from empleado import Empleado
+#
 
 class Empresa:
 

@@ -1,5 +1,5 @@
 class Persona:
-
+#
     def inicializar_persona(self,nombre,apellido):
         #creamos atributos clase
         self.nombre = nombre

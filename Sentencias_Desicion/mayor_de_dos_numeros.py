@@ -1,5 +1,5 @@
 from random import randint
-
+#
 numero1 = randint (-100,100)
 numero2 = randint (-100,100)
 print(numero1, numero2)

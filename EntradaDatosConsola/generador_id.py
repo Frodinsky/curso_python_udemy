@@ -14,3 +14,4 @@ identificador = sub_nombre+sub_apellido+sub_nacimiento+numero_aleatorio
 
 print(f"Su curp seria: {identificador}")
 
+#

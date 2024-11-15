@@ -1,5 +1,5 @@
 print("Alcance de variables")
-
+#
 #variable global
 contador_original = 0
 

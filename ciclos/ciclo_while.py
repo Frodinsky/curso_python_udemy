@@ -1,5 +1,5 @@
 from random import randint
-
+#
 print("Ciclo While\n")
 
 contador = 0

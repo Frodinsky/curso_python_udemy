@@ -1,3 +1,4 @@
+#
 cadena_estilo_1 = 'Comillas simples'
 cadena_estilo_2 = "Comillas dobles"
 cadena_estilo_3 = ''' Multiples lineas

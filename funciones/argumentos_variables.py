@@ -1,5 +1,5 @@
 print("Argumentos variables")
-
+#
 def superheroe_superpoderes(superheroe, nombre, *args):
     print(f"Superheroe: {superheroe} - {nombre} - {args}")
     #iteramos los poderes

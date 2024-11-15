@@ -1,5 +1,5 @@
 from typing import no_type_check
-
+#
 print("Este programa hace una reserva en un hotel")
 
 CUARTO_MAR = 190.50

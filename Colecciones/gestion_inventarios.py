@@ -1,5 +1,5 @@
 from combinacion_listas_tuplas import producto
-
+#
 print("Este programa gestiona un inventario")
 
 inventario = []

@@ -9,3 +9,4 @@ print(f"\nNombre de la receta: {nombre_receta}")
 print(f"Ingredientes: \n{ingredientes_receta}")
 print(f"Minutos que tarda: {tiempo_preparacion}")
 print(f"Difcultad {dificultad_receta}")
+#

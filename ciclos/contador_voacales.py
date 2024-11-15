@@ -1,6 +1,6 @@
 # Paso 1: Definir la cadena de texto
 cadena = "Ingresa un texto: "
-
+#
 # Paso 2: Inicializar el contador
 contador_vocales = 0
 

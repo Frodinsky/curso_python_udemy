@@ -6,3 +6,4 @@ datos ='Juana,33,USA'
 lista = datos.split(',')
 print(lista)
 
+#

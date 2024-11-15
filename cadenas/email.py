@@ -11,3 +11,4 @@ email = nombre_usuario + '@' + nombre_empresa + dominio
 email = email.lower()
 
 print(f"Este es tu nombre correo: {email}")
+#

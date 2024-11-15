@@ -7,3 +7,5 @@ print(f"Formateo en minusculas: {cadena1.lower()}")
 
 cadena2 = ' Juan Perez '
 print(f"Eliminar espacios {cadena2.strip()}")
+
+#

@@ -1,7 +1,7 @@
 class Animal():
     def hacer_sonido(self):
         print("Sonido cualquiera")
-
+#
 class Dog(Animal):
     def hacer_sonido(self):
         print("Ladrar")

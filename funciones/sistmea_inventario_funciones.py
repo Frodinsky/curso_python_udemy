@@ -1,5 +1,5 @@
 print("Este programa es un sistema de inventarios con un menu, con funciones")
-
+3
 #Inventario almacen
 inventario = [
     {"id":1, "nombre":"Camisa", "Precio":350.00, "Cantidad":10},

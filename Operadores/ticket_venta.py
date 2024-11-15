@@ -1,5 +1,5 @@
 print("***Programa que genera un ticket***")
-
+#
 precio_leche = float(input("Precio leche: "))
 precio_pan = float(input("Precio pan: "))
 precio_lechuga = float(input("Precio lechuga: "))

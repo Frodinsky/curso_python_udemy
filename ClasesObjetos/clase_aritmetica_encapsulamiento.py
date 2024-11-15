@@ -1,5 +1,5 @@
 class AritmeticaEncapsulamiento:
-
+#
     def __init__(self, operador1, operador2):
         self._operador1 = operador1
         self._operador2 = operador2

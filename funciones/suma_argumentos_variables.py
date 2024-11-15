@@ -1,5 +1,5 @@
 print("Suma con argumentos variables")
-
+#
 #funcion sumar que acepta argumentos variables
 def sumar(*args):
     total = 0

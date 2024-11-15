@@ -1,5 +1,5 @@
 print("Funcion de una calculadora de impuestos")
-
+#
 def calculadora_impuesto(pago_sin_impuestos, impuesto):
     pago_total = pago_sin_impuestos + pago_sin_impuestos * (impuesto/100)
     return pago_total

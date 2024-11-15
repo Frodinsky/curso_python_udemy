@@ -1,5 +1,5 @@
 from random import randint
-
+#
 califacion = randint (0,12)
 califacion_evaluada = None
 if califacion < 6:

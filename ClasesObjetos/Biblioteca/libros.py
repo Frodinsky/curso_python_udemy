@@ -1,6 +1,6 @@
 class Libros:
     contador_libros=0
-
+#
     def __init__(self,titulo,autor,genero):
         self._titulo = titulo
         self._autor = autor

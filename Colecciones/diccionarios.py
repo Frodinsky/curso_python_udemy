@@ -1,5 +1,5 @@
 print("Diccionarios en python")
-
+#
 persona = {"nombre":"Sergio",
            "Edad": 30,
            "Ciudad":"México"

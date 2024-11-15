@@ -1,5 +1,5 @@
 print("***Este programa dice si se puede prestar o no un libro***")
-
+#
 crendencial = input("Tienes crendencial (Si o No) ")
 distancia = int(input("A cuantos KM vives?: "))
 

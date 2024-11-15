@@ -1,7 +1,7 @@
 from random import randint
 
 print("***Suma acumulativa ciclo while")
-
+#
 
 #Sumar los primeros 5 numeros
 

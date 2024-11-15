@@ -1,4 +1,4 @@
-
+#
 print("***Sistema de reserva de hoteles***")
 #VARIABLES
 nombre_cliente = "Laura Martinez"

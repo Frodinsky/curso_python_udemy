@@ -1,5 +1,5 @@
 #variables sensibles a mayusculas y minusculas
-
+#
 Edad = 30
 edad = 20
 

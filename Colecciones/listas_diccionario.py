@@ -1,5 +1,5 @@
 print("Programa con listas y diccionarios")
-
+#
 personas = [
     {
         "nommbre":"Regina",

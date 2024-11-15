@@ -1,5 +1,5 @@
 print("***Este programa genera un promedio de calificaciones***")
-
+#
 lista_calificaciones = []
 cantidad_calificaciones = int(input("Cuantas calificaciones tienes? "))
 

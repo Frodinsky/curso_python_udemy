@@ -1,6 +1,6 @@
 META_PASOS_DIARIOS = 10000
 CALORIA_PASOS_DIAROS = 0.04
-
+#
 nombre = input("Digite su nombre: ")
 pasos_diarios = int(input("Cuantos pasos dio hoy? "))
 

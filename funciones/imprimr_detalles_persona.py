@@ -1,5 +1,5 @@
 print("Imprimir detalles de una persona utilizando kwargs")
-
+#
 #Funcion que acepta argumentos variables en forma de llave-valor osea en dict (diccionario)
 def imprimir_detalle_persona(**kwargs):
     print("\nValores recibidisos")

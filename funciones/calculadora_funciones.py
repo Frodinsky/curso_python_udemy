@@ -1,5 +1,5 @@
 print("***Este programa es una calculadora donde se ocupan funciones")
-
+#
 #variables globales
 var1 = 0
 var2 = 0

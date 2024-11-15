@@ -1,6 +1,6 @@
 print("***Regresar una tupla de valores desde una funcion***")
 
-
+#
 #definir funcion
 def personas_mayusculas(nombre,apellido,edad):
     print(f"Esta funcion regresa una tupla")

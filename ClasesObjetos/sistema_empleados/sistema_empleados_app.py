@@ -1,6 +1,6 @@
-from sistema_empleados.empleado import Empleado
-from sistema_empleados.empresa import Empresa
-
+from empleado import Empleado
+from empresa import Empresa
+#
 print("***Sistema de empleados***")
 
 #Crear una instancia de empresa

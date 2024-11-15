@@ -1,5 +1,5 @@
 print("***Este programa valida una contraseña de 6 caracteres***")
-
+#
 #cadena = 'Hola, Mundo!'
 #largo_cadena = len(cadena)
 #print (largo_cadena)

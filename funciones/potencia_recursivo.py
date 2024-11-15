@@ -1,5 +1,5 @@
 print("Este programa tiene un modulo recursivo para sacar la potencia de un nuemero")
-
+#
 def potencia_recursiva(numero_base,exponente = 1):
     if exponente == 0:
         #print(f"Resultado es 1")

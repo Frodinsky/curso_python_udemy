@@ -1,5 +1,5 @@
 print('*** Combinación de Listas y Tuplas ***')
-
+#
 # definir una lista que almacena tuplas de productos
 productos = [
     ('P001', 'Camiseta', 20.00),
